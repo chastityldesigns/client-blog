@@ -1,0 +1,56 @@
+
+body {
+    background-image: url(images/background-img.jpg);
+    
+}
+
+h1 {
+ text-align: center;
+ padding: 200px;
+ font-size: larger;
+ padding: 46px 20px 46px 20px;
+ margin-bottom: 0px;
+ margin-top: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ background-color: #ffffff;
+ border: 5px solid black;
+font-size: 72px;
+font-family: font-family: 'Montserrat', sans-serif;
+
+}
+h3 {
+ text-align: center;
+}
+h4 {
+    text-align: center;
+    font-size: 35px;
+}
+
+footer {
+ text-align: center;
+ background-color: white;
+ margin-top: 20px;
+ padding: 20px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+figcaption {
+    text-align: center;
+}
+a {
+    display: inline-block;
+    margin: auto;
+    text-decoration: none;
+    background-color: white;
+    width: 8%; 
+    
+}
+#container {
+    text-align: center;
+}
